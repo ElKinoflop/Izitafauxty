@@ -419,8 +419,8 @@
     "keymap": [
         [
             "KC.NUMLOCK",
-            "KC.PSCREEN",
-            "KC.PAUSE",
+            "KC.TD(KC.KP_MINUS,KC.KP_SLASH)",
+            "KC.TD(KC.KP_PLUS,KC.KP_ASTERISK)",
             "KC.F1",
             "KC.F2",
             "KC.F3",
@@ -864,5 +864,5 @@
         "macros"
     ],
     "flashingMode": "automatic",
-    "lastEdited": "2024-11-15 19:12"
+    "lastEdited": "2024-11-16 10:03"
 }
