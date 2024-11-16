@@ -33,7 +33,7 @@ Standard:
   <li>Designed to be cut from 3mm acrylic</li>
 </ul>
 
-<img src="images/casecombined.png" alt="Izitafauxty Case Layers">
+<img src="https://github.com/ElKinoflop/Izitafauxty/blob/main/images/izitafauxtycasecombined.png" alt="Izitafauxty Case Layers">
 
 <h1>Bill of Materials</h1>
 <ul>
