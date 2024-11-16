@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ElKinoflop/Izitafauxty/blob/main/images/PXL_20241116_132735092~2.jpg" alt="Izitafauxty Keyboard Photo">
 
-Stacked acrylic keyboard case designed for handwiring with a <a href="https://www.waveshare.com/wiki/RP2040-Tiny" target="_blank">Waveshare RP2040-Tiny</a>. Main cluster is minivan sized with an added F-Row and numpad (standard or southpaw).
+Stacked acrylic keyboard case designed for handwiring with a <a href="https://www.waveshare.com/wiki/RP2040-Tiny" target="_blank">Waveshare RP2040-Tiny</a>. Main cluster is minivan sized (12.75u) with an added F-Row and numpad (standard or southpaw).
 
 Feel free to do whatever you want with the files. If you have any questions just ask (Discord username elkinoflop) and if you make one then share a photo with me!
 
@@ -38,7 +38,7 @@ Standard:
 <h1>Bill of Materials</h1>
 <ul>
   <li>One of each DXF file (except for the plate) cut from 3mm acrylic. You only need 1x layer 1 and 1x layer 2 piece cut depending on whether you want standard or southpaw</li>
-  <li>Plate DXF file cut from 1.5mm metal/carbon. Plastic is not suggested as it will be too flexy and your switches will probably pop out</li>
+  <li>Plate DXF file cut from 1.5mm/1.6mm material of your choice. I've only tested this with carbon, plastic might be too flexy.</li>
   <li><a href="https://www.waveshare.com/wiki/RP2040-Tiny" target="_blank">Waveshare RP2040-Tiny</a></li>
   <li>M2 Standoffs with a outside diameter of 3mm. Various lengths. <a href="https://amzn.eu/d/8H1HG6Y" target="_blank">Amazon Standoffs</a></li></li>
   <li>M2 Hex socket button head bolts. Various lengths. <a href="https://www.aliexpress.com/item/32969042589.html" target="_blank">AliExpress bolts</a></li>
