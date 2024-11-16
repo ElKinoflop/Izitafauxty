@@ -37,7 +37,7 @@ Standard:
 
 <h1>Bill of Materials</h1>
 <ul>
-  <li>One of each DXF file (except for the plate) cut from 3mm acrylic.</li>
+  <li>One of each DXF file (except for the plate) cut from 3mm acrylic. You only need 1x layer 1 and 1x layer 2 piece cut depending on whether you want standard or southpaw</li>
   <li>Plate DXF file cut from 1.5mm metal/carbon. Plastic is not suggested as it will be too flexy and your switches will probably pop out</li>
   <li><a href="https://www.waveshare.com/wiki/RP2040-Tiny" target="_blank">Waveshare RP2040-Tiny</a></li>
   <li>M2 Standoffs with a outside diameter of 3mm. Various lengths. <a href="https://amzn.eu/d/8H1HG6Y" target="_blank">Amazon Standoffs</a></li></li>
