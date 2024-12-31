@@ -47,6 +47,7 @@ Standard:
   <li>Wire! Solid core 22 AWG suggested</li>
   <li>73x MX Switches</li>
   <li>73x 1N4148 Diodes</li>
+  <li>Adhesive feet</li>
 </ul>
 
 <h1>Firmware</h1>
